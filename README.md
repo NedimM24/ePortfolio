@@ -1,5 +1,130 @@
-# ePortfolio
+```markdown
+# Computer Science ePortfolio
 
-Throughout my Computer Science program, I have built a strong foundation in programming, problem-solving, and software development. Completing my coursework and creating my ePortfolio has helped me show how I have grown from learning basic concepts to creating complete software projects. My projects have improved my skills in object-oriented programming, databases, software design, testing, and algorithms. I have also learned the importance of communication, teamwork, and understanding what users need when creating software. These experiences have helped shape my goal of becoming a software developer who creates reliable and easy-to-use applications.
-The skills shown in my portfolio demonstrate my experience with important areas of computer science, including data structures and algorithms, software engineering, databases, and security. I have worked on projects where I organized and managed data, created structured programs, tested software, and improved existing systems. My coursework taught me the value of writing clean code, checking for errors, protecting data, and building software that can be maintained over time. I have also gained experience working with others, sharing ideas, and explaining technical information clearly, which will help me succeed in a professional team environment.
-The artifacts in my ePortfolio show my overall growth as a computer science student and future developer. These projects demonstrate my ability to build applications, work with databases, create organized software systems, and test programs to make sure they work correctly. Each artifact represents a different skill I developed, including mobile development, software testing, and improving code structure. Together, they show my ability to solve problems, learn new technologies, and create practical software solutions. This portfolio represents my preparation to enter the computer science field and continue developing my skills as a software professional.
+## About Me
+
+Welcome to my Computer Science ePortfolio. This portfolio showcases the projects, skills, and enhancements I developed throughout my Computer Science program. The artifacts included demonstrate my experience with software engineering, mobile application development, database design, data structures and algorithms, testing, and object-oriented programming.
+
+My goal is to apply these skills in a professional software development environment while continuing to grow as a developer.
+
+---
+
+# Professional Self-Assessment
+
+The professional self-assessment provides an overview of my growth throughout the Computer Science program and highlights the skills demonstrated throughout this portfolio.
+
+place artifact here
+
+
+---
+
+# Code Review Video
+
+The code review video provides an overview of the selected artifacts, discusses enhancement opportunities, and explains the improvements made during the capstone project.
+
+place artifact here
+
+
+---
+
+# Artifact 1: Android Weight Tracker Application
+
+## Overview
+
+This Android application allows users to track weight entries, store data using SQLite, update and delete records, and monitor progress toward a goal weight.
+
+### Skills Demonstrated
+
+- Java Programming
+- Android Development
+- SQLite Database Design
+- CRUD Operations
+- RecyclerView and Adapter Pattern
+- Object-Oriented Programming
+- Data Structures and Algorithms
+
+### Artifact Files
+
+- Original Version
+- Enhanced Version
+- Enhancement Narrative
+- Screenshots
+
+place artifact here
+
+
+---
+
+# Artifact 2: Software Testing Application
+
+## Overview
+
+This Java application manages contacts, appointments, and tasks while enforcing validation rules and ensuring reliability through automated testing.
+
+### Skills Demonstrated
+
+- Java Programming
+- Software Engineering
+- Object-Oriented Design
+- Validation and Exception Handling
+- Defensive Programming
+- JUnit Testing
+- Quality Assurance
+
+### Artifact Files
+
+- Original Version
+- Enhanced Version
+- Enhancement Narrative
+- Test Documentation
+
+place artifact here
+
+---
+
+# Technical Skills
+
+## Programming Languages
+
+- Java
+- SQL
+
+## Software Development
+
+- Object-Oriented Programming
+- Software Design
+- Debugging
+- Version Control
+
+## Mobile Development
+
+- Android Studio
+- RecyclerView
+- SQLite
+
+## Databases
+
+- SQLite
+- CRUD Operations
+- Data Modeling
+
+## Testing and Quality Assurance
+
+- JUnit
+- Unit Testing
+- Validation
+- Exception Handling
+
+---
+
+# Repository Structure
+
+- Professional Self-Assessment
+- Code Review Video
+- Android Weight Tracker Artifact
+- Software Testing Artifact
+- Enhancement Narratives
+- Supporting Documentation
+
+Thank you for reviewing my ePortfolio.
+```
