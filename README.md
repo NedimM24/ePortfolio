@@ -82,7 +82,7 @@ This Android application allows users to track weight entries and manage progres
 - Enhancement Narrative
 - Screenshots
 
-[View Data Structures and Algorithms Artifact](Artifact-2-Weight-Tracker-Data-Structures)
+[View Algorithms and Data Structures Artifact](Artifact-2-Algorithms-And-Data-Structure)
 
 ---
 
@@ -109,7 +109,7 @@ This Android application demonstrates database integration by storing and managi
 - Enhancement Narrative
 - Screenshots
 
-[View Database Artifact](Artifact-3-Weight-Tracker-Database)
+[View Database Artifact](Artifact-3-Databases)
 
 ---
 
