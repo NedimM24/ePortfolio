@@ -30,45 +30,18 @@ place artifact here
 
 ---
 
-# Artifact 1: Android Weight Tracker Application
+# Artifact 1: Software Testing Application (Software Engineering)
 
 ## Overview
 
-This Android application allows users to track weight entries, store data using SQLite, update and delete records, and monitor progress toward a goal weight.
-
-### Skills Demonstrated
-
-- Java Programming
-- Android Development
-- SQLite Database Design
-- CRUD Operations
-- RecyclerView and Adapter Pattern
-- Object-Oriented Programming
-- Data Structures and Algorithms
-
-### Artifact Files
-
-- Original Version
-- Enhanced Version
-- Enhancement Narrative
-- Screenshots
-
-place artifact here
-
-
----
-
-# Artifact 2: Software Testing Application
-
-## Overview
-
-This Java application manages contacts, appointments, and tasks while enforcing validation rules and ensuring reliability through automated testing.
+This Java application manages contacts, appointments, and tasks while enforcing validation rules and ensuring reliability through automated testing. The project demonstrates software engineering practices including object-oriented design, validation, exception handling, and quality assurance.
 
 ### Skills Demonstrated
 
 - Java Programming
 - Software Engineering
-- Object-Oriented Design
+- Object-Oriented Programming
+- Software Design
 - Validation and Exception Handling
 - Defensive Programming
 - JUnit Testing
@@ -81,7 +54,62 @@ This Java application manages contacts, appointments, and tasks while enforcing 
 - Enhancement Narrative
 - Test Documentation
 
-place artifact here
+[View Software Engineering Artifact](Artifact-1-Software-Design-And-Engineering)
+
+---
+
+# Artifact 2: Android Weight Tracker Application (Data Structures and Algorithms)
+
+## Overview
+
+This Android application allows users to track weight entries and manage progress toward a goal weight. The application uses structured data handling through ArrayLists, object-based storage, sorting, and searching algorithms.
+
+### Skills Demonstrated
+
+- Java Programming
+- Android Development
+- ArrayLists
+- Data Structures
+- Sorting Algorithms
+- Linear Search
+- Object-Oriented Programming
+- RecyclerView and Adapter Pattern
+
+### Artifact Files
+
+- Original Version
+- Enhanced Version
+- Enhancement Narrative
+- Screenshots
+
+[View Data Structures and Algorithms Artifact](Artifact-2-Weight-Tracker-Data-Structures)
+
+---
+
+# Artifact 3: Android Weight Tracker Application (Database Design)
+
+## Overview
+
+This Android application demonstrates database integration by storing and managing weight entries using SQLite. Users can create, view, update, and delete weight records while interacting with structured database operations.
+
+### Skills Demonstrated
+
+- SQLite Database Design
+- Database Integration
+- CRUD Operations
+- Data Modeling
+- Android Development
+- Java Programming
+- Database Management
+
+### Artifact Files
+
+- Original Version
+- Enhanced Version
+- Enhancement Narrative
+- Screenshots
+
+[View Database Artifact](Artifact-3-Weight-Tracker-Database)
 
 ---
 
@@ -124,10 +152,10 @@ place artifact here
 
 - Professional Self-Assessment
 - Code Review Video
-- Android Weight Tracker Artifact
-- Software Testing Artifact
+- Software Engineering Artifact
+- Data Structures and Algorithms Artifact
+- Database Design Artifact
 - Enhancement Narratives
 - Supporting Documentation
 
 Thank you for reviewing my ePortfolio.
-```
