@@ -1,21 +1,13 @@
-# React E-Commerce Application
-## GitHUb Path - https://github.com/NedimM24/react-marketplace
-## Live Demo - https://react-marketplace-pi.vercel.app/
+# React Marketplace
 
 ## Overview
 
-A front-end e-commerce web application built with React. This project demonstrates modern web development practices through reusable components, responsive design, routing, and state management.
+A front-end e-commerce web application built with React. This project demonstrates modern front-end development practices including reusable components, responsive design, client-side routing, state management, and testing.
 
-## Features
+## Links
 
-- Product browsing
-- Shopping cart functionality
-- Add, remove, and update cart items
-- Quantity management
-- Client-side routing
-- Responsive layout
-- Component-based design
-- Unit testing
+- GitHub Repository: https://github.com/NedimM24/react-marketplace
+- Live Demo: https://react-marketplace-pi.vercel.app/
 
 ## Technologies Used
 
@@ -26,14 +18,25 @@ A front-end e-commerce web application built with React. This project demonstrat
 - Vitest
 - React Testing Library
 
+## Features
+
+- Product browsing
+- Shopping cart functionality
+- Add, remove, and update cart items
+- Quantity management
+- Client-side routing
+- Responsive layout
+- Component-based architecture
+- Unit testing
+
 ## Skills Demonstrated
 
 - Front-End Development
 - Component-Based Architecture
 - State Management
 - User Interface Design
-- Testing and Debugging
 - Responsive Web Design
+- Testing and Debugging
 
 ## Project Pages
 
@@ -43,7 +46,7 @@ A front-end e-commerce web application built with React. This project demonstrat
 
 ## Challenges
 
-Some challenges included managing cart state across components, preventing duplicate items, and keeping quantity updates consistent throughout the application.
+Some challenges included managing cart state across multiple components, preventing duplicate items, and ensuring quantity updates remained consistent throughout the application.
 
 ## Future Improvements
 
