@@ -8,6 +8,8 @@ I have a Bachelor's degree in Computer Science with interests in software engine
 
 The artifacts included demonstrate experience with:
 - Software Engineering
+- Front-End Development
+- Web Development
 - Mobile Application Development
 - Database Design
 - Data Structures and Algorithms
@@ -26,6 +28,7 @@ Through my projects, I have developed skills in:
 
 - Object-Oriented Programming
 - Software Design
+- Front-End Development
 - Database Management
 - Testing and Quality Assurance
 - Algorithms and Data Structures
