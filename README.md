@@ -143,4 +143,41 @@ https://react-marketplace-pi.vercel.app/
 
 ---
 
+### Animal Rescue Analytics Dashboard
+
+A full-stack Python analytics dashboard built with Dash, MongoDB, and Plotly. This project demonstrates database integration, CRUD operations, interactive data visualization, and user-focused dashboard development.
+
+Technologies:
+
+- Python
+- Dash
+- MongoDB
+- PyMongo
+- Plotly
+- Dash Leaflet
+- Pandas
+- NumPy
+
+Skills Demonstrated:
+
+- Full-Stack Development
+- Database Integration
+- CRUD Operations
+- Data Visualization
+- Dashboard Development
+- Backend Development
+- Data Processing
+- Debugging and Testing
+
+Features:
+
+- Interactive animal data filtering
+- Searchable and sortable data tables
+- Dynamic charts based on user selections
+- Geolocation mapping
+- MongoDB database connectivity
+
+GitHub:
+https://github.com/NedimM24/animal-rescue-analytics-dashboard
+
 Thank you for reviewing my ePortfolio.
