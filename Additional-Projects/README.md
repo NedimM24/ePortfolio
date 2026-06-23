@@ -1,4 +1,4 @@
-# Projects Portfolio
+# Additional Projects Portfolio
 
 A collection of software projects demonstrating full-stack development, frontend engineering, databases, and data-driven applications.
 
