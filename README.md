@@ -6,7 +6,7 @@ Hello, my name is Nedim Mulahusic. Welcome to my Computer Science ePortfolio.
 
 I have a Bachelor's degree in Computer Science with interests in software engineering, software development, and database design. This portfolio showcases projects and skills developed throughout my Computer Science program.
 
-The artifacts included demonstrate experience with:
+The artifacts and additional projects included demonstrate experience with:
 - Software Engineering
 - Front-End Development
 - Web Development
