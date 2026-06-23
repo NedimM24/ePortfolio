@@ -1,56 +1,83 @@
-# React Marketplace
+# Projects Portfolio
 
-## Overview
+A collection of software projects demonstrating full-stack development, frontend engineering, databases, and data-driven applications.
 
-A front-end e-commerce web application built with React. This project demonstrates modern front-end development practices including reusable components, responsive design, client-side routing, state management, and testing.
+---
 
-## Links
+## Animal Rescue Analytics Dashboard
 
-- GitHub Repository: https://github.com/NedimM24/react-marketplace
-- Live Demo: https://react-marketplace-pi.vercel.app/
+### Overview
+A full-stack Python analytics dashboard built with Dash, MongoDB, and Plotly. This application allows users to filter, analyze, and visualize animal rescue data through interactive tables, charts, and geospatial maps.
 
-## Technologies Used
+### Links
+GitHub Repository:
+https://github.com/NedimM24/animal-rescue-analytics-dashboard
 
+### Technologies Used
+- Python
+- Dash
+- MongoDB
+- PyMongo
+- Plotly
+- Dash Leaflet
+- Pandas
+- NumPy
+
+### Features
+- Interactive animal rescue dashboard
+- Rescue-type filtering
+- Searchable and sortable data tables
+- Dynamic charts
+- Geolocation mapping
+- CRUD database integration
+
+### Skills Demonstrated
+- Full-Stack Python Development
+- Database Integration
+- Data Visualization
+- Dashboard Development
+- Debugging
+
+---
+
+## React Marketplace
+
+### Overview
+A front-end e-commerce application built with React. Demonstrates component-based architecture, state management, responsive design, routing, and frontend testing.
+
+### Links
+GitHub Repository:
+https://github.com/NedimM24/react-marketplace
+
+Live Demo:
+https://react-marketplace-pi.vercel.app/
+
+### Technologies Used
 - React
-- React Router
 - JavaScript
+- React Router
 - CSS Modules
 - Vitest
 - React Testing Library
 
-## Features
-
+### Features
 - Product browsing
 - Shopping cart functionality
-- Add, remove, and update cart items
+- Add/remove/update cart items
 - Quantity management
 - Client-side routing
-- Responsive layout
-- Component-based architecture
+- Responsive design
 - Unit testing
 
-## Skills Demonstrated
-
+### Skills Demonstrated
 - Front-End Development
-- Component-Based Architecture
+- Component Architecture
 - State Management
-- User Interface Design
-- Responsive Web Design
-- Testing and Debugging
+- UI Design
+- Testing & Debugging
 
-## Project Pages
+---
 
-- Home Page
-- Shop Page
-- Cart Page
+## Future Projects
 
-## Challenges
-
-Some challenges included managing cart state across multiple components, preventing duplicate items, and ensuring quantity updates remained consistent throughout the application.
-
-## Future Improvements
-
-- Backend integration
-- User authentication
-- Checkout system
-- Database integration
+More projects will be added as I continue building applications across different technologies.
