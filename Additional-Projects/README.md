@@ -4,6 +4,68 @@ A collection of software projects demonstrating full-stack development, frontend
 
 ---
 
+## Summit Supply Co Inventory Management System
+
+### Overview
+
+A full-stack inventory management application built with TypeScript, Node.js, Express, PostgreSQL, and EJS. This application allows users to manage outdoor equipment inventory by creating, viewing, updating, and deleting product categories and items.
+
+The project demonstrates backend development, relational database design, MVC architecture, server-side validation, and full-stack application deployment.
+
+### Links
+
+GitHub Repository:
+(Add GitHub repository link)
+
+Live Demo:
+(Add Railway deployment link)
+
+### Technologies Used
+
+- TypeScript
+- Node.js
+- Express.js
+- PostgreSQL
+- SQL
+- EJS
+- HTML
+- CSS
+- Railway
+- Git/GitHub
+
+### Features
+
+- Inventory category management
+- Product/item management
+- Create, read, update, and delete functionality
+- Category and item relational database structure
+- One-to-many database relationships
+- Cascading deletes using PostgreSQL foreign keys
+- Server-side form validation
+- Dynamic page rendering with EJS
+- Responsive inventory interface
+- Cloud deployment with Railway PostgreSQL database
+
+### Skills Demonstrated
+
+- Full-Stack Web Development
+- Backend Development
+- TypeScript Development
+- Node.js Application Development
+- Express.js Server Development
+- MVC Architecture
+- PostgreSQL Database Design
+- SQL Query Development
+- CRUD Operations
+- Relational Database Modeling
+- Server-Side Validation
+- Debugging and Troubleshooting
+- Responsive Web Design
+- Application Deployment
+- Version Control
+
+---
+
 ## Animal Rescue Analytics Dashboard
 
 ### Overview
