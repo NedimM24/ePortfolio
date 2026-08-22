@@ -54,6 +54,8 @@ These experiences have strengthened my ability to create reliable, maintainable,
 - Node.js
 - Express.js
 - EJS
+- Passport.js
+- bcrypt
 - RESTful Routing
 - Full-Stack Web Development
 ## Database Technologies
@@ -71,6 +73,9 @@ These experiences have strengthened my ability to create reliable, maintainable,
 - MVC Architecture
 - Software Design
 - Debugging
+- Session Management
+- Role-Based Access Control
+- Password Hashing
 - Version Control (Git/GitHub)
 - Testing and Quality Assurance
 - Unit Testing
