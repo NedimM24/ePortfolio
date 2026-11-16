@@ -1,10 +1,10 @@
 # Computer Science ePortfolio
 
-## About Me
+# About Me
 
 Hello, my name is Nedim Mulahusic. Welcome to my Computer Science ePortfolio.
 
-I have a **Bachelor's degree in Computer Science** with a focus on software engineering, full-stack development, database design, and application development.
+I have a **Bachelor's degree** in Computer Science with a focus on software engineering, full-stack development, database design, and application development.
 
 I am currently working as a **Software Engineer Intern at Boomer Roomers**, a startup where I contribute to React Native mobile development and React web development. My work has included improving mobile accessibility, testing with iOS Dynamic Type and VoiceOver, implementing WCAG-focused improvements, developing responsive web interfaces, and collaborating with senior engineers through code reviews, sprint planning, technical documentation, and pull requests.
 
