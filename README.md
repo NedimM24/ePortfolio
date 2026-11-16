@@ -93,6 +93,8 @@ backcountry-journal/
 │
 └── README.md
 
+---
+
 ### Technologies
 
 - TypeScript
