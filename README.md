@@ -181,6 +181,8 @@ My development experience has progressed from individual academic applications t
 
 My professional internship at Boomer Roomers has also given me experience working within a real software development environment. I have worked with existing codebases, investigated defects, implemented changes, participated in code reviews, collaborated with senior engineers, and considered accessibility and responsive design as part of the development process.
 
+I also use AI-assisted development tools such as ChatGPT, Claude, and GitHub Copilot to support debugging, code exploration, documentation, and development workflows while independently evaluating and validating the resulting solutions.
+
 My projects have allowed me to develop experience across the full software development lifecycle, including:
 
 - Designing application architecture
