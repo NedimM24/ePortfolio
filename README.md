@@ -1,110 +1,295 @@
 # Computer Science ePortfolio
- 
+
 ## About Me
- 
+
 Hello, my name is Nedim Mulahusic. Welcome to my Computer Science ePortfolio.
- 
-I have a Bachelor's degree in Computer Science with interests in software engineering, software development, and database design. This portfolio showcases projects and skills developed throughout my Computer Science program.
- 
-The artifacts and additional projects included demonstrate experience with:
-- Software Engineering
-- Front-End Development
-- Web Development
-- Mobile Application Development
-- Database Design
-- Data Structures and Algorithms
-- Software Testing
-- Object-Oriented Programming
-My goal is to apply these skills in a professional software development environment while continuing to grow as a developer.
- 
+
+I have a **Bachelor's degree in Computer Science** with a focus on software engineering, full-stack development, database design, and application development.
+
+I am currently working as a **Software Engineer Intern at Boomer Roomers**, a startup where I contribute to React Native mobile development and React web development. My work has included improving mobile accessibility, testing with iOS Dynamic Type and VoiceOver, implementing WCAG-focused improvements, developing responsive web interfaces, and collaborating with senior engineers through code reviews, sprint planning, technical documentation, and pull requests.
+
+Through my academic projects, personal projects, and professional experience, I have developed experience building applications from the database and backend layers through the frontend and deployment process.
+
+My goal is to continue growing as a software engineer while building reliable, maintainable, accessible, and user-focused software.
+
 ---
+
+# Professional Experience
+
+## Software Engineer Intern — Boomer Roomers
+
+**Remote | Aug 2026 – Present**
+
+At Boomer Roomers, I contribute to web and mobile application development with a focus on accessibility, responsive interfaces, debugging, and software quality.
+
+### Responsibilities & Contributions
+
+- Audited and improved **React Native mobile accessibility** across multiple screens, using iOS Dynamic Type and VoiceOver to identify text clipping, focus order, form navigation, and component accessibility issues.
+- Implemented accessibility improvements for **Dynamic Type, screen-reader focus management, WCAG AA contrast, and touch targets**, remediating 4 interactive elements below the 44×44pt accessibility target.
+- Redesigned and implemented a **responsive React web signup flow** using progressive disclosure and adaptive progress indicators that switch between sidebar and linear layouts across screen sizes.
+- Drove defects from **root-cause analysis through implementation and validation**, collaborating with senior engineers through code reviews, sprint planning, technical documentation, Linear, and pull requests.
+
+### Technologies & Skills
+
+- React Native
+- React
+- JavaScript
+- TypeScript
+- Accessibility
+- WCAG
+- iOS VoiceOver
+- Dynamic Type
+- Responsive Design
+- UI/UX
+- Debugging
+- Root-Cause Analysis
+- Git
+- Code Reviews
+- Linear
+
+---
+
+# Featured Project
+
+## Backcountry Journal
+
+**Full-Stack Outdoor Blog Platform**
+
+Backcountry Journal is a production-deployed full-stack blogging platform built as a monorepo containing separate user and administrative React applications and a TypeScript/Express REST API.
+
+The platform allows authenticated users to browse outdoor articles and participate through comments, while administrators can create, edit, publish, and manage blog content.
+
+### Project Architecture
+
+```text
+backcountry-journal/
+│
+├── server/
+│   ├── prisma/
+│   └── src/
+│       ├── config/
+│       ├── controllers/
+│       ├── middleware/
+│       ├── queries/
+│       ├── routes/
+│       ├── validation/
+│       └── app.ts
+│
+├── admin-frontend/
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       ├── pages/
+│       ├── routes/
+│       └── App.tsx
+│
+├── user-frontend/
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       ├── pages/
+│       ├── services/
+│       └── App.tsx
+│
+└── README.md
+
+### Technologies
+
+- TypeScript
+- JavaScript
+- React
+- Vite
+- Node.js
+- Express.js
+- Prisma
+- PostgreSQL
+- JWT Authentication
+- bcrypt
+- REST API
+- HTML
+- CSS
+- Git/GitHub
+- Railway
+- Vercel
+- Postman
+- Autocannon
+
+### Skills Demonstrated
+
+- Full-Stack Web Development
+- REST API Development
+- Authentication and Authorization
+- JWT Authentication
+- Role-Based Access Control
+- Relational Database Design
+- Prisma ORM
+- PostgreSQL
+- API Validation
+- CRUD Operations
+- React Component Development
+- Responsive Web Design
+- API Integration
+- Production Deployment
+- API Testing
+- Performance Optimization
+- Git/GitHub
+
+### Performance Optimization
+
+I performed measured performance improvements on both the frontend and backend.
+
+#### Frontend
+
+- Resized the homepage hero image from **2560×1440 to 1200×675**
+- Compressed the image, reducing its file size by approximately **79%**
+- Replaced a CSS background image with an HTML `<img>` element
+- Added `fetchPriority="high"` to prioritize the hero image
+
+#### Backend
+
+- Reduced unnecessary database fields using Prisma `select`
+- Reduced API response payloads by returning shortened post excerpts for the published-post listing
+- Preserved full article content for individual post endpoints
+
+### Measured Results
+
+Using Autocannon against the deployed Railway API with 5 concurrent connections over 10 seconds:
+
+| Metric          | Before      | After       |
+| --------------- | ----------- | ----------- |
+| Response Size   | 8,374 bytes | 2,857 bytes |
+| Average Latency | 39.74 ms    | 34.69 ms    |
+| p97.5 Latency   | 58 ms       | 43 ms       |
+| Throughput      | 122.6 req/s | 140.7 req/s |
+
+**Results:**
+
+- **65.9% smaller API response payload**
+- **12.7% lower average latency**
+- **25.9% lower p97.5 latency**
+- **14.8% higher throughput**
+
+### API Testing
+
+Used **Postman to test and validate individual API endpoints against the deployed production backend**, verifying API functionality, HTTP responses, authentication/authorization behavior, and request/response handling.
  
 # Professional Self-Assessment
- 
-Throughout my Computer Science program, I built a strong foundation in programming, problem-solving, and software development. My coursework and projects helped me grow from learning fundamental concepts to designing and developing complete software applications.
- 
-Through my projects, I have developed skills in:
- 
-- Object-Oriented Programming
-- Software Design
-- Front-End Development
-- Database Management
-- Testing and Quality Assurance
-- Algorithms and Data Structures
-- Application Development
-- Authentication and Authorization
-These experiences have strengthened my ability to create reliable, maintainable, and user-focused software solutions.
- 
+
+Throughout my Computer Science degree, I developed a strong foundation in programming, problem-solving, software engineering, database design, and application development.
+
+My development experience has progressed from individual academic applications to complete full-stack systems and production-deployed applications.
+
+My professional internship at Boomer Roomers has also given me experience working within a real software development environment. I have worked with existing codebases, investigated defects, implemented changes, participated in code reviews, collaborated with senior engineers, and considered accessibility and responsive design as part of the development process.
+
+My projects have allowed me to develop experience across the full software development lifecycle, including:
+
+- Designing application architecture
+- Developing frontend interfaces
+- Building backend APIs
+- Designing relational databases
+- Implementing authentication and authorization
+- Validating and testing applications
+- Debugging and troubleshooting
+- Deploying applications to cloud platforms
+- Optimizing application performance
+- Using Git and GitHub for version control
+- Collaborating through code reviews and pull requests
+
+These experiences have strengthened my ability to approach software development from both a technical and user-focused perspective.
+
 ---
- 
+
 # Technical Skills
- 
+
 ## Programming Languages
- 
+
 - Java
 - JavaScript
 - TypeScript
 - Python
 - SQL
-## Web Development
- 
+
+## Front-End Development
+
+- React
+- React Native
 - HTML
 - CSS
-- React
+- Vite
+- React Router
+- Responsive Web Design
+- Accessibility
+- WCAG
+- iOS VoiceOver
+- Dynamic Type
+
+## Backend Development
+
 - Node.js
 - Express.js
+- REST APIs
 - EJS
+- RESTful Routing
+- Server-Side Validation
+- MVC Architecture
+
+## Authentication & Security
+
+- JWT Authentication
 - Passport.js
 - bcrypt
-- RESTful Routing
-- Full-Stack Web Development
-## Database Technologies
- 
+- Authentication and Authorization
+- Role-Based Access Control
+- Session Management
+- Password Hashing
+
+## Databases
+
 - PostgreSQL
 - SQLite
 - MongoDB
-- Database Design
+- Prisma
+- PyMongo
 - Relational Database Modeling
 - SQL Queries
 - CRUD Operations
-## Software Engineering
- 
-- Object-Oriented Programming
-- MVC Architecture
-- Software Design
-- Debugging
-- Session Management
-- Role-Based Access Control
-- Password Hashing
-- Version Control (Git/GitHub)
-- Testing and Quality Assurance
+- Database Relationships
+
+## Testing & Quality
+
 - Unit Testing
+- JUnit
+- Vitest
+- Postman
+- API Testing
 - Validation
-- Authentication and Authorization
-- Session Management
-- Role-Based Access Control
-## Mobile Development
- 
-- Android Studio
-- Java Android Development
-- RecyclerView
-- SQLite Integration
-## Data Structures and Algorithms
- 
-- Arrays and Collections
-- Searching Algorithms
-- Sorting Algorithms
-- Data Modeling
-- Problem Solving
-## Development Tools & Deployment
- 
+- Debugging
+- Root-Cause Analysis
+- Performance Testing
+- Autocannon
+
+## Software Engineering
+
+- Object-Oriented Programming
+- Software Design
+- Data Structures and Algorithms
 - Git
 - GitHub
-- Railway
-- Vercel
+- Code Reviews
+- Pull Requests
+- Technical Documentation
+- Responsive Design
+- Accessibility
+- Agile/Sprint Development
+
+## Development & Deployment Tools
+
 - Visual Studio Code
 - IntelliJ IDEA
 - Android Studio
+- Railway
+- Vercel
+- Linear
 ---
  
 # Additional Projects
