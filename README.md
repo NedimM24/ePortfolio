@@ -92,6 +92,7 @@ backcountry-journal/
 │       └── App.tsx
 │
 └── README.md
+```
 
 ---
 
